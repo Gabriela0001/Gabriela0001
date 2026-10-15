@@ -1,73 +1,69 @@
-﻿<h1 align="center">👋 ¡Hola! Soy Gabriela</h1>
-
-<h3 align="center">🎓 Estudiante de Sistemas de la Información</h3>
+﻿<h1 align="center">Hi 👋, I'm Gabriela</h1>
+<h3 align="center">Information Systems Student</h3>
 
 <p align="center">
-  💻 Cuarto semestre | 📚 Algoritmos | 🚀 Aprendiendo programación
+  🎓 4th Semester | 💻 Algorithms | 🚀 Aspiring Developer
 </p>
 
 <hr>
 
-<h2>🙋‍♀️ Sobre mí</h2>
+<h2>👩‍💻 About Me</h2>
 
 <p>
-  Soy estudiante de cuarto semestre de la carrera de
-  <strong>Sistemas de la Información</strong>.
-  Actualmente estoy fortaleciendo mis conocimientos en
-  <strong>Algoritmos</strong>, lógica de programación y resolución de problemas.
+  I am an Information Systems student currently in my fourth semester.
+  I am developing my programming skills and learning about algorithms,
+  logical thinking, and problem-solving.
 </p>
 
 <ul>
-  <li>🌱 Aprendiendo y mejorando mis habilidades de programación.</li>
-  <li>🧠 Interesada en los algoritmos y la lógica computacional.</li>
-  <li>💡 Explorando nuevas tecnologías.</li>
-  <li>🎯 Con ganas de crecer profesionalmente en tecnología.</li>
+  <li>🌱 Learning programming and algorithm design.</li>
+  <li>☕ Programming with Java.</li>
+  <li>🛠️ Using NetBeans and IntelliJ IDEA.</li>
+  <li>🤖 Exploring Arduino projects.</li>
+  <li>🎯 Working toward becoming a software developer.</li>
 </ul>
 
 <hr>
 
-<h2>🛠️ Tecnologías y herramientas</h2>
+<h2>🛠️ Technologies and Tools</h2>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" alt="Java">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="55" alt="NetBeans">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" alt="IntelliJ IDEA">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" alt="Arduino">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" width="55" alt="NetBeans"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="55" alt="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" alt="Arduino"/>
 </p>
 
 <p align="center">
-  <strong>Java · NetBeans · IntelliJ IDEA · Arduino</strong>
+  Java · NetBeans · IntelliJ IDEA · Arduino
 </p>
 
 <hr>
 
-<h2>📚 Actualmente aprendiendo</h2>
+<h2>📚 Currently Learning</h2>
 
 <ul>
-  <li>Algoritmos y lógica de programación.</li>
-  <li>Programación en Java.</li>
-  <li>Resolución de problemas computacionales.</li>
-  <li>Proyectos con Arduino.</li>
+  <li>Algorithms and computational logic.</li>
+  <li>Java programming.</li>
+  <li>Problem-solving techniques.</li>
+  <li>Arduino and basic electronics.</li>
 </ul>
 
 <hr>
 
-<h2>📊 Mi perfil de GitHub</h2>
+<h2>📊 GitHub Statistics</h2>
 
 <p align="center">
-  <a href="https://github.com/Gabriela0001">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gabriela0001&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriela0001&show_icons=true&theme=tokyonight" alt="GitHub Statistics"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Gabriela0001?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Mis_repositorios-181717?style=for-the-badge&logo=github" alt="Mis repositorios">
+    <img src="https://img.shields.io/badge/GitHub-My_Repositories-181717?style=for-the-badge&logo=github" alt="My Repositories"/>
   </a>
 </p>
 
 <hr>
 
-<h3 align="center">✨ ¡Gracias por visitar mi perfil! ✨</h3>
-
-<p align="center">💜 Aprendiendo hoy, construyendo el futuro.</p>
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+<p align="center">💜 Learning today, building the future.</p>
